@@ -1,0 +1,2 @@
+include src/chronolab_rag/py.typed
+include src/chronolab_rag/retrieval/data/*.json

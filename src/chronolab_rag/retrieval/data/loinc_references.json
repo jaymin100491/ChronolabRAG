@@ -1,0 +1,86 @@
+[
+  {
+    "source_id": "REF-GLUCOSE",
+    "loinc_code": "2345-7",
+    "alias_loinc_codes": ["2339-0", "14749-6"],
+    "title": "Glucose teaching note",
+    "snippet": "Glucose is the main blood sugar the body uses for energy. A common fasting teaching interval for adults is 70 to 99 mg/dL. A result above that band is high in this note, and a result below it is low. One value does not diagnose diabetes or low blood sugar."
+  },
+  {
+    "source_id": "REF-HBA1C",
+    "loinc_code": "4548-4",
+    "alias_loinc_codes": ["59261-8"],
+    "title": "HbA1c teaching note",
+    "snippet": "HbA1c reflects the share of hemoglobin with sugar attached over the prior few months. A common teaching interval is 4.0 to 5.6 percent. This note uses that band only to describe the supplied numbers. It does not diagnose diabetes."
+  },
+  {
+    "source_id": "REF-CREATININE",
+    "loinc_code": "2160-0",
+    "alias_loinc_codes": ["14682-9"],
+    "title": "Creatinine teaching note",
+    "snippet": "Creatinine is a waste product filtered by the kidneys and measured in blood. A broad adult teaching interval is 0.6 to 1.3 mg/dL. Muscle mass and the lab method change what a single result means. This note does not diagnose kidney disease."
+  },
+  {
+    "source_id": "REF-EGFR",
+    "loinc_code": "33914-3",
+    "alias_loinc_codes": [],
+    "title": "eGFR teaching note",
+    "snippet": "eGFR is an estimate of how much blood the kidneys filter each minute. This teaching set marks a band of 60 to 120 in the standard filtration unit. A clinician reads the estimate with age, creatinine, and the equation that was used. This note does not diagnose kidney disease."
+  },
+  {
+    "source_id": "REF-LDL",
+    "loinc_code": "2089-1",
+    "alias_loinc_codes": ["13457-7"],
+    "title": "LDL cholesterol teaching note",
+    "snippet": "LDL cholesterol is a blood fat often tracked on a lipid panel. This teaching set uses a band of 0 to 100 mg/dL. Diet, medicines, and other fats change how a clinician reads the number. This note does not set a treatment goal."
+  },
+  {
+    "source_id": "REF-HDL",
+    "loinc_code": "2085-9",
+    "alias_loinc_codes": [],
+    "title": "HDL cholesterol teaching note",
+    "snippet": "HDL cholesterol is another blood fat reported beside LDL. This teaching set uses a band of 40 to 60 mg/dL only to mark the supplied interval. A clinician decides what a higher or lower result means for a person. This note does not call a result healthy or unhealthy on its own."
+  },
+  {
+    "source_id": "REF-TRIGLYCERIDES",
+    "loinc_code": "2571-8",
+    "alias_loinc_codes": ["14927-8"],
+    "title": "Triglycerides teaching note",
+    "snippet": "Triglycerides are fats in the blood that rise and fall with meals and metabolism. This teaching set uses a band of 0 to 150 mg/dL. A recent meal can change the result. This note does not diagnose a lipid disorder."
+  },
+  {
+    "source_id": "REF-TSH",
+    "loinc_code": "3016-3",
+    "alias_loinc_codes": [],
+    "title": "TSH teaching note",
+    "snippet": "TSH is a pituitary signal that tells the thyroid how much hormone to make. A common teaching interval is 0.4 to 4.0 uIU/mL, and mIU/L uses the same numbers. Pregnancy, medicines, and illness can shift the result. This note does not diagnose a thyroid disorder."
+  },
+  {
+    "source_id": "REF-HEMOGLOBIN",
+    "loinc_code": "718-7",
+    "alias_loinc_codes": [],
+    "title": "Hemoglobin teaching note",
+    "snippet": "Hemoglobin is the protein in red blood cells that carries oxygen. A broad adult teaching interval is 12.0 to 17.5 g/dL. Altitude, pregnancy, and the lab method change the band a clinician uses. This note does not diagnose anemia."
+  },
+  {
+    "source_id": "REF-WBC",
+    "loinc_code": "6690-2",
+    "alias_loinc_codes": [],
+    "title": "WBC teaching note",
+    "snippet": "WBC counts the white cells in a volume of blood. A common teaching interval is 4.5 to 11.0 thousand per microliter. Infection, stress, and medicines can move the count for a short time. This note does not diagnose an infection."
+  },
+  {
+    "source_id": "REF-ALT",
+    "loinc_code": "1742-6",
+    "alias_loinc_codes": [],
+    "title": "ALT teaching note",
+    "snippet": "ALT is an enzyme found mostly in the liver and reported as an activity level. A common teaching interval is 7 to 56 U/L. Exercise and medicines can raise it for a short time. This note does not diagnose liver disease."
+  },
+  {
+    "source_id": "REF-AST",
+    "loinc_code": "1920-8",
+    "alias_loinc_codes": [],
+    "title": "AST teaching note",
+    "snippet": "AST is an enzyme found in the liver, heart, and muscle. A common teaching interval is 10 to 40 U/L. The same person can have a different ALT result on the same day. This note does not diagnose liver or muscle disease."
+  }
+]

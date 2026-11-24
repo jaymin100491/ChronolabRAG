@@ -1,0 +1,23 @@
+{
+  "patient_id": "SYN-GLUCOSE",
+  "observations": [
+    {
+      "loinc_code": "2345-7",
+      "test_name": "Glucose",
+      "value": 90,
+      "unit": "mg/dL",
+      "reference_low": 70,
+      "reference_high": 99,
+      "timestamp": "2024-01-01T08:00:00+00:00"
+    },
+    {
+      "loinc_code": "2345-7",
+      "test_name": "Glucose",
+      "value": 110,
+      "unit": "mg/dL",
+      "reference_low": 70,
+      "reference_high": 99,
+      "timestamp": "2024-01-11T08:00:00+00:00"
+    }
+  ]
+}
