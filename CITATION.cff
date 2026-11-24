@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: “chronolab-rag: Deterministic Trend Computation and Evidence-Grounded Verification for Longitudinal Laboratory Explanations”
+message: “If you use this repository in your research or engineering evaluation, please cite it using the metadata below.”
+type: software
+authors:
+  - family-names: “Patel”
+    given-names: “Jaymin”
+    orcid: “https://orcid.org/0009-0009-8664-7131”
+repository-code: “https://github.com/jaymin100491/CHronolabRAG”
+url: “https://github.com/jaymin100491/CHronolabRAG”
+license: Apache-2.0
+version: “0.1.0"
+date-released: “2026-11-23”
+keywords:
+  - “retrieval-augmented generation”
+  - “longitudinal laboratory data”
+  - “hallucination detection”
+  - “FHIR”
+  - “LOINC”
+  - “healthcare AI”
+abstract: >-
+  chronolab-rag converts multi-visit laboratory timelines into unit-aligned
+  trends and plain-language explanations with deterministic pre-generation
+  trend math and post-generation numeric, citation, and readability verification.
