@@ -10,3 +10,7 @@ build/
 *.egg-info/
 .env
 .DS_Store
+
+# External Synthea and MIMIC extracts. Root-only so retrieval/data stays tracked.
+/data/
+benchmark/external_*.jsonl

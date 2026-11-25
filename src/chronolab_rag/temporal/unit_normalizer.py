@@ -296,6 +296,12 @@ def list_panels() -> tuple[Panel, ...]:
     return PANELS
 
 
+def supported_loinc_codes() -> frozenset[str]:
+    """LOINC codes this normalizer can place on a single unit scale."""
+
+    return frozenset(_BY_LOINC)
+
+
 def resolve_panel(loinc_code: str | None, test_name: str | None = None) -> Panel:
     if loinc_code and loinc_code in _BY_LOINC:
         return _BY_LOINC[loinc_code]
